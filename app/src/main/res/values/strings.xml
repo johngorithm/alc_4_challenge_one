@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="title_activity_web_view">About ALC</string>
+    <string name="my_profile_btn">MY PROFILE</string>
+    <string name="about_alc_text">ABOUT ALC</string>
+    <string name="welcome_to_alc_4_0_text">Welcome to ALC 4.0</string>
+    <string name="johngorithm">\@johngorithm</string>
+    <string name="alc_web_page">https://andela.com/alc/</string>
+    <string name="track_field">Track</string>
+    <string name="track_value">Android</string>
+    <string name="country_field">Country</string>
+    <string name="country_value">Nigeria</string>
+    <string name="email_field">Email</string>
+    <string name="email_value">johngorithm@gmail.com</string>
+    <string name="phone_number_field">Phone Number</string>
+    <string name="phone_number_value">08112449820</string>
+    <string name="slack_username_field">Slack Username</string>
+    <string name="alc_4_0_footer">ALC 4.0</string>
+    <string name="my_name">John Obi</string>
+</resources>
